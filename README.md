@@ -1,6 +1,6 @@
-#libvlc-SDK
-由于最新版的vlc安装目录中不再包含libvlc SDK。
-Windows下 libvlc SDK 获取方式有两种：
+# libvlc-SDK
+最新版的vlc安装目录中不再包含libvlc SDK。
+Windows下 libvlc SDK 获取方式有两种，如下。
 
 ## 方式1. 官网下载 
 例： http://download.videolan.org/pub/videolan/vlc/last/win32/
